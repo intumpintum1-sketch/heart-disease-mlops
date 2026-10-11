@@ -15,3 +15,4 @@ prometheus-fastapi-instrumentator
 ruff
 pytest
 ruff
+prometheus-fastapi-instrumentator

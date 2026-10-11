@@ -1,8 +1,8 @@
-import pandas
-import numpy
-import sklearn
-import mlflow
 import fastapi
+import mlflow
+import numpy
+import pandas
+import sklearn
 
 print("MLOps environment is ready!")
 print(f"Pandas: {pandas.__version__}")
