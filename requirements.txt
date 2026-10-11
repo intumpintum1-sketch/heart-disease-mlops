@@ -13,3 +13,5 @@ pytest
 httpx
 prometheus-fastapi-instrumentator
 ruff
+pytest
+ruff
