@@ -1,0 +1,16 @@
+{
+    "selected_model": "Logistic Regression",
+    "selection_basis": "Best overall cross-validation and test-set performance among the two evaluated classifiers",
+    "test_metrics": {
+        "accuracy": 0.8852459016393442,
+        "precision": 0.8387096774193549,
+        "recall": 0.9285714285714286,
+        "f1_score": 0.8813559322033898,
+        "roc_auc": 0.9653679653679654
+    },
+    "best_parameters": {
+        "C": 0.1,
+        "class_weight": "balanced",
+        "max_iter": 2000
+    }
+}
